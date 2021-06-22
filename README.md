@@ -2,7 +2,6 @@
 A collection of my favorite problems 
 
 
-| مسئله  | لینک |
+| problem  |
 | ------------- | ------------- |
-| (https://quera.ir/college/3016/chapter/8238/lesson/27724/#page=1)[بزرگترین زیربازه]  | Content Cell  |
-| Content Cell  | Content Cell  |
+| [Greatest sub-segments](https://quera.ir/college/3016/chapter/8238/lesson/27724/#page=1)|
